@@ -1,2 +1,2 @@
 # GoogleAppsDataAnalysis
-Anayzing Google Apps
+Analyzing Google Apps
